@@ -7,7 +7,7 @@ which is implemented in Tensorflow is : https://github.com/guoqiangqi/PFLD  [1] 
 this model is train from [1], which author helped me a lot. and than, train and get the final TF model . I made a little change in [1]'s tensorflow model to fit the caffe model I need. finally, I conversion PFLD TF model to caffe model. 
 
 # Detailed introduction
-In my Chinese Blog：https://blog.csdn.net/pc9803/article/details/100055213
+The code about how to conversion caffe and the project whole process are introduced in my Chinese Blog：https://blog.csdn.net/pc9803/article/details/100055213
 
 # Reference
 https://arxiv.org/pdf/1902.10859.pdf                                                                                    
